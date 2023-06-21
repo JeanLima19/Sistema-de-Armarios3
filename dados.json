@@ -1,0 +1,31 @@
+[
+    {
+        "id": "armario-1",
+        "estado": "Aberto",
+        "color": "green"
+    },
+
+    {
+        "id": "armario-2",
+        "estado": "em uso",
+        "color": "red"
+    },
+
+    {
+        "id": "armario-3",
+        "estado": "manutenção",
+        "color": "yellow"
+    },
+
+    {
+        "nameLogo": "Sistema de armarios",
+        "nameStatus": " - Aberto",
+        "nameStatus2": " - Em uso",
+        "nameStatus3": " - manutenção",
+        "bloco1": "Bloco -1",
+        "bloco2": "Bloco -2"
+
+    }
+
+
+]
