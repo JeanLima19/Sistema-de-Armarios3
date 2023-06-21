@@ -67,7 +67,7 @@ function estados() {
     buttons[6].innerHTML = manutenção;
     buttons[7].innerHTML = aberto;
     buttons[8].innerHTML = aberto;
-    buttons[9].innerHTML = aberto;
+    buttons[9].innerHTML = emUso;
   });
 }
 
